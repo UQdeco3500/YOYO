@@ -2,7 +2,7 @@
 Tailored health program
 ## Link To Project Proposal
 design_proposal.pdf
-
+https://github.com/UQdeco3500/YoYo/blob/87ed8719ad2d752074b2e5f6f9ac25a2b6fd8d13/design_proposal.pdf
 ## Link to Design Process Overview
 [WIKI](https://github.com/UQdeco3500/YoYo/wiki)
 
