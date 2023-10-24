@@ -1,7 +1,7 @@
 # Midcare
 Tailored health program
 ## Link To Project Proposal
-link to wiki page here containing proposal slides
+design_proposal.pdf
 
 ## Link to Design Process Overview
 [WIKI](https://github.com/UQdeco3500/YoYo/wiki)
