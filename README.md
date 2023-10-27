@@ -12,6 +12,8 @@ https://github.com/UQdeco3500/YoYo/wiki/Overview
 
 iwatch interface code
 https://github.com/UQdeco3500/YoYo/blob/master/iwatch-interface.zip
+## brochures
+https://www.canva.com/design/DAFyaHIFCrk/Kswz0lVm9tAcxqIl7P335A/edit?utm_content=DAFyaHIFCrk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Instructions
 https://github.com/UQdeco3500/YoYo/wiki/ReadMe-%E2%80%90-Instruction
