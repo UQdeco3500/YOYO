@@ -14,4 +14,4 @@ iwatch interface code
 https://github.com/UQdeco3500/YoYo/blob/master/iwatch-interface.zip
 
 ## Instructions
-https://github.com/UQdeco3500/YoYo/wiki/ReadMe#instruction
+https://github.com/UQdeco3500/YoYo/wiki/ReadMe-%E2%80%90-Instruction
